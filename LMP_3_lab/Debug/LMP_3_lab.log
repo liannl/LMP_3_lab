@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\source\repos\LMP_3_lab\LMP_3_lab\Source.cpp(71,21): warning C4804: +=: небезопасное использование типа "bool" в операции
+D:\source\repos\LMP_3_lab\LMP_3_lab\Source.cpp(102,13): warning C4804: +=: небезопасное использование типа "bool" в операции
+D:\source\repos\LMP_3_lab\LMP_3_lab\Source.cpp(111,37): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\LMP_3_lab\LMP_3_lab\Source.cpp(113,17): warning C4804: +=: небезопасное использование типа "bool" в операции
+D:\source\repos\LMP_3_lab\LMP_3_lab\Source.cpp(138,27): warning C4018: <: несоответствие типов со знаком и без знака
+  LMP_3_lab.vcxproj -> D:\source\repos\LMP_3_lab\Debug\LMP_3_lab.exe
